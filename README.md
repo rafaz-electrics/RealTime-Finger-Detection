@@ -1,0 +1,2 @@
+# RealTime-Finger-Detection
+A real-time computer vision project that detects and counts fingers using a webcam feed. Leverages OpenCV's contour analysis and convexity defect algorithms (or MediaPipe's hand landmark model) to accurately identify finger positions and gestures with minimal latency and no external hardware required.
